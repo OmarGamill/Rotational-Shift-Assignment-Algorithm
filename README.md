@@ -13,17 +13,17 @@ This project implements a Python-based scheduling algorithm to assign agents to 
 - Easy re-runability with updated workforce data
 
 ---
-
 ##  Repository Structure
 
-├── new_dataset.xlsx # Sample input dataset
-├── Pipeline.py 
-├── ProcessData.py # Preprocessing and data preparation
-├── Utilis.py # Utility functions
-├── run.py # Entry point—calls pipeline and creates outputs
-├── requirements.txt 
-├── writeHere.py # contains several variables that are used to configure 
-└── README.md 
+├── new_dataset.xlsx      # Sample input dataset
+├── Pipeline.py           # Main pipeline execution
+├── ProcessData.py        # Preprocessing and data preparation
+├── Utilis.py             # Utility functions
+├── run.py                # Entry point — 
+├── requirements.txt      # Python dependencies
+├── writeHere.py          # Contains several variables used for configuration
+└── README.md             # Project documentation
+
 ---
 
 ##  Getting Started
