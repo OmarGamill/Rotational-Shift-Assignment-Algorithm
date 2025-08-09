@@ -1,6 +1,6 @@
 # Rotational-Shift-Assignment-Algorithm
 Automatically generates a fair, preference-aware weekly 24/7 rotational shift schedule.
-https://github.com/OmarGamill/Rotational-Shift-Assignment-Algorithm/blob/main/Algorithm.PNG
+
 ![Project Diagram](https://github.com/OmarGamill/Rotational-Shift-Assignment-Algorithm/blob/main/Algorithm.PNG)
 
 ---
