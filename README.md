@@ -15,6 +15,7 @@ This project implements a Python-based scheduling algorithm to assign agents to 
 ---
 ##  Repository Structure
 
+```bash
 ├── new_dataset.xlsx      # Sample input dataset
 ├── Pipeline.py           # Main pipeline execution
 ├── ProcessData.py        # Preprocessing and data preparation
@@ -23,7 +24,7 @@ This project implements a Python-based scheduling algorithm to assign agents to 
 ├── requirements.txt      # Python dependencies
 ├── writeHere.py          # Contains several variables used for configuration
 └── README.md             # Project documentation
-
+```
 ---
 
 ##  Getting Started
